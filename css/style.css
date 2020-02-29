@@ -110,6 +110,28 @@ a#btn1, a#btn2, a#btn3 {
   margin-left: 18%;
 }
 
+@media (max-width: 650px) {
+  .item2 {
+    margin-top: 10%;
+  }
+  .teendok {
+    margin-left: 0% !important;
+    padding: 0px;
+    font-size: 16px;
+  }
+  .tajekoztato {
+    margin-left: 0% !important;
+    padding: 0px;
+    font-size: 16px;
+  }
+  ul.kovetoen {
+    font-size: 16px;
+  }
+  .viz img {
+    width: 100% !important;
+  }
+}
+
 .tajekoztato {
   list-style: none;
   text-align: left;
