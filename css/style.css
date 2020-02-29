@@ -1,30 +1,5 @@
 /* Base */
 
-@font-face {
-  font-family: 'Quinta';
-  src: url('fonts/quinta/BwQuintaPro-Regular.otf') format('opentype');
-  font-weight: 400;
-  font-style: normal;
-  }
-  @font-face {
-  font-family: 'Quinta';
-  src: url('fonts/quinta/BwQuintaPro-Bold.otf') format('opentype');
-  font-weight: 700;
-  font-style: normal;
-   }
-  @font-face {
-  font-family: 'Quinta';
-  src: url('fonts/quinta/BwQuintaPro-Black.otf') format('opentype');
-  font-weight: 900;
-  font-style: normal;
-  }
-  @font-face {
-  font-family: 'Quinta';
-  src: url('fonts/quinta/BwQuintaPro-Light.otf') format('opentype');
-  font-weight: 200;
-  font-style: normal;
-  }
-
 .pageContainer {
   overflow: hidden;
   margin: 0em auto;
@@ -100,7 +75,7 @@ h5#contactH5 {
 }
 
 a#btn1, a#btn2, a#btn3 {
-  font-family: 'Quinta', sans-serif;
+  font-family: 'Raleway';
   font-size: 16px;
 }
 
@@ -276,13 +251,13 @@ a#btn3.btn.btn-primary:active {
 }
 
 h1.heading {
-  font-family: 'Quinta', sans-serif;
+  font-family: 'Raleway';
   font-size: 40px;
   font-weight: 700;
 }
 
 h2.heading {
-  font-family: 'Quinta', sans-serif;
+  font-family: 'Raleway';
   font-size: 32px;
   font-weight: 700;
 }
@@ -366,7 +341,7 @@ span#sorttable_sortrevind {
   font-size: 20px;
   text-align: left;
   color: #f1f3ce;
-  font-family: 'Quinta', sans-serif;
+  font-family: 'Raleway';
   margin-bottom: 0px;
 }
 
@@ -460,7 +435,7 @@ body {
   color: black;
   font-weight: 400;
   font-size: 18px;
-  font-family: 'Quinta', sans-serif;
+  font-family: 'Raleway';
 }
 
 ::-moz-selection {
@@ -1402,7 +1377,7 @@ a.nav-link {
 }
 
 .heading {
-  font-family: 'Quinta', sans-serif;
+  font-family: 'Raleway';
   text-transform: uppercase;
   position: relative;
   padding-bottom: 10px;
